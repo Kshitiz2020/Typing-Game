@@ -10,9 +10,7 @@ Typing Game
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-<<<<<<< HEAD
-Another commit
-=======
 Joona
 samuel
->>>>>>> refs/remotes/origin/main
+
+Another commit
