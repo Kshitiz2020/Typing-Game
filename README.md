@@ -6,6 +6,8 @@ Typing Game
 - http://musicianapp-env.eba-fpcenxvf.eu-central-1.elasticbeanstalk.com/
 
 
+
+
 ### Badge example
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
